@@ -1,2 +1,2 @@
-# Tic-Tac-Toe__In-Java
-Tic Tac Toe game in java.
+# Rock-Paper-Scissor__In-Java
+Scissor Paper Rock game in java.
